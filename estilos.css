@@ -29,7 +29,7 @@ body {
     
 }
 .cabecera {
-    background: #fffbb9;
+    background-image: radial-gradient(circle at 50% 94.49%, #b0d7ff 0, #6fb1fc 50%, #8ecbf3 100%);
     border: 1PX solid #999999;
     padding: 20px;
 }
@@ -53,7 +53,7 @@ body {
     float: left;
 }
 article {
-    background: #fffbcc;
+    background-image: radial-gradient(circle at 50% 94.49%, #b0d7ff 0, #6fb1fc 50%, #8ecbf3 100%);
     border: 1px solid #999;
     padding: 20px;
     margin: 15px;
@@ -73,7 +73,7 @@ article footer {
 .columna blockquote {
     border: 1px solid black;
     padding: 40px;
-    background: #fffbb9;
+    background-image: radial-gradient(circle at 50% 94.49%, #b0d7ff 0, #6fb1fc 50%, #8ecbf3 100%);
     margin: 20px;
 }
 .pie {
